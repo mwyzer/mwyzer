@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Wyzer
 #### I do not know what I am doing 
-Hot and Cold 
+
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
