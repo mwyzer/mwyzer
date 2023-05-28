@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Wyzer
-#### I do not know what I am doing 
+#### I know what I am doing 
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
