@@ -2,7 +2,8 @@
 #### Doing this doing that
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / ExpressJS
+Others: Ruby on Rails, Django
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Vue, React, Angular, Ruby on Rails, NodeJS, a little bit golang, and Django 
