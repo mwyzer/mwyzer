@@ -6,7 +6,7 @@ Skills: REACT / JS / HTML / CSS / ExpressJS
 Others: Ruby on Rails, Django
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Vue, React, Angular, Ruby on Rails, NodeJS, a little bit golang, and Django 
+- 🌱 I’m currently learning Dart, PHP, and JavaScript.
 - 📫 How to reach me: lamarankerja.wyzer@gmail.com 
 - ⚡ Fun fact: 
 
