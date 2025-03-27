@@ -7,7 +7,7 @@ Others: Ruby on Rails, Django
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Dart, PHP, and JavaScript.
-- 📫 How to reach me: lamarankerja.wyzer@gmail.com 
+- 📫 How to reach me: 
 - ⚡ Fun fact: 
 
 
