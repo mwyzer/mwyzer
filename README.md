@@ -21,7 +21,7 @@
 - 💻 I love coding clean, maintainable, and scalable code.
 - 🌱 I’m learning **Dart, PHP & more JavaScript frameworks**.
 - 💬 Ask me about **React, Node.js, Vue, Flutter, Express, Rails & Django**.
-- 📫 How to reach me: **mwyzer@gmail.com** (or connect on LinkedIn!)
+- 📫 How to reach me: **muhammad.wyzer@gmail.com** (or connect on LinkedIn!)
 
 ---
 
