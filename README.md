@@ -1,10 +1,10 @@
 <!--
-  🎉 README for GitHub Profile
-  Customize this to reflect your skills, work, and personality.
+  🚀 GitHub Profile README for Muhammad Wyzer
+  Designed to showcase skills, projects, and personality.
 -->
 
-# 👋 Hi there, I'm **Wyzer**  
-### Full-Stack Developer | React • Flutter • Node.js • Express • Django • Ruby on Rails
+# 👋 Hi, I'm **Muhammad Wyzer**  
+### Full-Stack Developer | React · Flutter · Node.js · Django · Rails
 
 <p align="center">
   <a href="https://github.com/mwyzer">
@@ -15,71 +15,65 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently building awesome full-stack apps and leveling up my Flutter, Dart, PHP & JavaScript skills.
-- 💻 I love coding clean, maintainable, and scalable code.
-- 🌱 I’m learning **Dart, PHP & more JavaScript frameworks**.
-- 💬 Ask me about **React, Node.js, Vue, Flutter, Express, Rails & Django**.
-- 📫 How to reach me: **muhammad.wyzer@gmail.com** (or connect on LinkedIn!)
-
----
-
-## 🛠️ Skills
-
-| Frontend | Backend | Mobile | Tools |
-|----------|---------|--------|-------|
-| React, Vue, HTML, CSS | Node.js, Express | Flutter, React Native | Git, GitHub, REST APIs |
-| JavaScript, TypeScript | Django, Rails | Dart | VS Code, Firebase |
+- 🔭 I'm currently building full‑stack apps and sharpening my **Flutter, Dart, PHP & JavaScript** skills.
+- 🌱 Always exploring new frameworks – currently diving deeper into **Vue, Svelte, and serverless**.
+- 💬 Ask me about **React, Node.js, Flutter, Express, Django, or Rails** – I love helping others!
+- 📫 Reach me at **muhammad.wyzer@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/muhammad-wyzer).
+- ⚡ Fun fact: I believe clean code is like a good joke – it doesn't need explanation. 😄
 
 ---
 
-## 🔗 Find Me Online
+## 🛠️ Tech Stack
+
+| **Frontend**                | **Backend**                | **Mobile**          | **Tools & Cloud**       |
+|-----------------------------|----------------------------|---------------------|--------------------------|
+| React, Vue, HTML5, CSS3     | Node.js, Express           | Flutter, Dart       | Git, GitHub, Firebase    |
+| JavaScript (ES6+), TypeScript | Django, Ruby on Rails    | React Native        | VS Code, REST APIs, Vercel |
+
+---
+
+## 📌 Featured Projects
+
+Here are some of my recent works – replace the placeholder links with your actual repos:
+
+- **[FindACoach-vuejs](https://github.com/mwyzer/FindACoach-vuejs)** – A coach finder UI built with Vue.js and the Composition API.
+- **[flutter_expense_tracker](https://github.com/mwyzer/flutter_expense_tracker)** – A cross‑platform expense tracking app using Flutter and BLoC.
+- **[RN-DiceApp](https://github.com/mwyzer/RN-DiceApp)** – A simple dice‑rolling game built with React Native for iOS and Android.
+
+> 💡 *Tip: Add live demo links or screenshots to make these shine!*
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/mwyzer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/muhammad-wyzer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:muhammad.wyzer@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwyzer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔥 Pinned Projects
-
-Here are some featured works from my GitHub:
-
-📌 **FindACoach-vuejs** – Coach finder UI with Vue.js  
-📌 **flutter_expense_tracker** – Flutter app to track expenses  
-📌 **RN-DiceApp** – React Native dice-rolling app  
-
-<!-- Replace these if you want real links -->
-<p>
-  <a href="https://github.com/mwyzer/FindACoach-vuejs">🔗 FindACoach-vuejs</a><br>
-  <a href="https://github.com/mwyzer/flutter_expense_tracker">🔗 flutter_expense_tracker</a><br>
-  <a href="https://github.com/mwyzer/RN-DiceApp">🔗 RN-DiceApp</a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwyzer&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <a href="https://github.com/mwyzer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammad-wyzer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:muhammad.wyzer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💡 Fun Facts
+## 💡 Fun Corner
 
-- 🌍 I enjoy building cross-platform apps & exploring new tech stacks.  
-- 💡 I love sharing knowledge and writing about code patterns.  
-- 🧠 Always learning, always improving.
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+- 🌍 I enjoy building cross‑platform apps and optimizing developer workflows.
+- 📝 I occasionally write about code patterns and clean architecture.
+- 🧠 Currently reading: *"The Pragmatic Programmer"* – highly recommended!
 
 ---
 
-✨ Thanks for visiting my profile!
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* – Martin Fowler
 
+---
+
+✨ Thanks for stopping by – feel free to star ⭐ any repo you find useful!
