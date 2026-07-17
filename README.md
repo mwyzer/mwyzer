@@ -4,7 +4,7 @@
 -->
 
 # 👋 Hi, I'm **Muhammad Wyzer**  
-### Full-Stack Developer | React · Flutter · Node.js · Django · Rails
+### Full-Stack Developer | React · Flutter · Node.js · Django · Rails · Springboot · .NET
 
 <p align="center">
   <a href="https://github.com/mwyzer">
