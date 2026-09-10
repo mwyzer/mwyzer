@@ -1,79 +1,112 @@
-<!--
-  🚀 GitHub Profile README for Muhammad Wyzer
-  Designed to showcase skills, projects, and personality.
--->
+# Hi, I'm Muhammad Wyzer 👋
 
-# 👋 Hi, I'm **Muhammad Wyzer**  
-### Full-Stack Developer | React · Flutter · Node.js · Django · Rails · Springboot · .NET
+### Full-Stack Software Engineer • TypeScript • Python • .NET • Java •  PostgreSQL • AI Systems
+
+I build scalable backend services, full-stack web applications, and AI-powered tools with a focus on clean architecture, testing, and reproducible development environments.
 
 <p align="center">
   <a href="https://github.com/mwyzer">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=mwyzer&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwyzer&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mwyzer&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwyzer&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔭 I'm currently building full‑stack apps and sharpening my **Flutter, Dart, PHP & JavaScript** skills.
-- 🌱 Always exploring new frameworks – currently diving deeper into **Vue, Svelte, and serverless**.
-- 💬 Ask me about **React, Node.js, Flutter, Express, Django, or Rails** – I love helping others!
-- 📫 Reach me at **muhammad.wyzer@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/muhammad-wyzer).
-- ⚡ Fun fact: I believe clean code is like a good joke – it doesn't need explanation. 😄
+- 💼 Full-Stack Developer with experience in TypeScript, Python, Laravel, and React.
+- 🤖 Interested in AI engineering, RAG applications, and developer tooling.
+- 🧪 I enjoy writing maintainable code, automated tests, and CI/CD pipelines.
+- 🌱 Currently exploring LangGraph, vector databases, and distributed backend systems.
 
----
+**Portfolio:** https://wyzer.my.id
 
-## 🛠️ Tech Stack
+**Email:** muhammad.wyzer@gmail.com
 
-| **Frontend**                | **Backend**                | **Mobile**          | **Tools & Cloud**       |
-|-----------------------------|----------------------------|---------------------|--------------------------|
-| React, Vue, HTML5, CSS3     | Node.js, Express           | Flutter, Dart       | Git, GitHub, Firebase    |
-| JavaScript (ES6+), TypeScript | Django, Ruby on Rails    | React Native        | VS Code, REST APIs, Vercel |
+**LinkedIn:** https://linkedin.com/in/muhammad-wyzer
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-Here are some of my recent works – replace the placeholder links with your actual repos:
+### Languages
 
-- **[FindACoach-vuejs](https://github.com/mwyzer/FindACoach-vuejs)** – A coach finder UI built with Vue.js and the Composition API.
-- **[flutter_expense_tracker](https://github.com/mwyzer/flutter_expense_tracker)** – A cross‑platform expense tracking app using Flutter and BLoC.
-- **[RN-DiceApp](https://github.com/mwyzer/RN-DiceApp)** – A simple dice‑rolling game built with React Native for iOS and Android.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
-> 💡 *Tip: Add live demo links or screenshots to make these shine!*
+### Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
+
+### Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+## Featured Projects
+
+### AI Helpdesk Portal
+
+RAG-powered helpdesk with ticket management, role-based access, vector search, and AI assistant.
+
+**Stack:** TypeScript · Express · PostgreSQL · Redis · Docker
+
+### Express Travel Agent API
+
+RESTful backend demonstrating authentication, booking workflows, and clean API architecture.
+
+**Stack:** TypeScript · Express · PostgreSQL
+
+### Django AI Employee
+
+Employee management system with AI-assisted document workflows and HR automation.
+
+**Stack:** Python · Django · PostgreSQL
+
+---
+
+## Engineering Practices
+
+- REST API Design
+- Clean Architecture
+- Unit & Integration Testing
+- Dockerized Development
+- GitHub Actions CI/CD
+- PostgreSQL & Redis
+- RAG & LLM Integration
+
+---
+
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwyzer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwyzer&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## Connect
 
-<p align="center">
-  <a href="https://github.com/mwyzer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/muhammad-wyzer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:muhammad.wyzer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="left">
+  <a href="https://github.com/mwyzer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/muhammad-wyzer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:muhammad.wyzer@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💡 Fun Corner
+> *“First, solve the problem. Then, write the cleanest solution you can.”*
 
-- 🌍 I enjoy building cross‑platform apps and optimizing developer workflows.
-- 📝 I occasionally write about code patterns and clean architecture.
-- 🧠 Currently reading: *"The Pragmatic Programmer"* – highly recommended!
-
----
-
-> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* – Martin Fowler
-
----
-
-✨ Thanks for stopping by – feel free to star ⭐ any repo you find useful!
+⭐ Thanks for visiting my profile!
