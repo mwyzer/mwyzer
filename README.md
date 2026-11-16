@@ -1,23 +1,24 @@
 # Hi, I'm Muhammad Wyzer 👋
 
-### Machine Learning & AI Systems Engineer • Python • PyTorch • Computer Vision • Numerical Computing • TypeScript
+### Machine Learning & AI Systems Engineer • Python • PyTorch • Computer Vision • Numerical Computing • Full-Stack AI
 
-I design and build reproducible machine-learning pipelines, computer-vision training and inference systems, numerical analysis workflows, and agentic AI applications—combining rigorous verification (`pytest`, synthetic datasets, deterministic pipelines) with modern AI-assisted engineering workflows.
+I design and build reproducible machine-learning pipelines, computer-vision training and inference systems, numerical analysis workflows, and production-grade agentic AI applications—combining rigorous engineering verification (`pytest`, synthetic datasets, deterministic pipelines) with modern AI-assisted workflows.
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/mwyzer">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=mwyzer&show_icons=true&theme=tokyonight&hide_border=true"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwyzer&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
-</p> -->
+</p>
 
 ---
 
 ## Focus Areas
 
-- 🧠 **Model Training & Inference Systems:** Fine-tuning object detection models (**PyTorch**, **RF-DETR**), **ONNX** export, and serverless GPU orchestration on **Modal (NVIDIA L4)** with gradient accumulation and checkpoint validation.
+- 🧠 **Model Training & Inference Systems:** Fine-tuning object detection models (**PyTorch**, **RF-DETR**), **ONNX** runtime export, and serverless GPU orchestration on **Modal (NVIDIA L4)** with gradient accumulation and checkpoint validation.
 - 📐 **Numerical Computing & Computer Vision:** Classical and deep-learning vision pipelines (**OpenCV**, **NumPy**, morphological filtering, PCA-based geometric heuristics, **3D Gaussian Splatting / `gsplat` & COLMAP**), spatial Gaussian kernel smoothing, and accelerometer RMS signal processing.
-- 🤖 **Agentic Workflows & Reproducible Python Engineering:** High-velocity development using **coding agents** (Claude Code, Antigravity) paired with modern Python tooling (`uv`, `pytest`, FastAPI, CLI automation, synthetic test suites, and CI/CD).
+- 🤖 **Agentic & Multi-Agent Architectures:** Graph-based agent routing (**LangGraph**), human-in-the-loop review systems, RAG evaluation, and asynchronous workflow execution.
+- 🧪 **Reproducible Python Engineering:** High-velocity development using **coding agents** (Claude Code, Antigravity) paired with modern Python tooling (`uv`, `pytest`, FastAPI/Flask, Docker, synthetic test suites, and GitHub Actions CI/CD).
 
 **Portfolio:** https://wyzer.my.id  
 **Email:** muhammad.wyzer@gmail.com  
@@ -36,9 +37,11 @@ I design and build reproducible machine-learning pipelines, computer-vision trai
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
 
-### Backend, Infrastructure & Reproducible Tooling
+### Backend, Frameworks & Infrastructure
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -47,7 +50,7 @@ I design and build reproducible machine-learning pipelines, computer-vision trai
 
 ---
 
-## Featured ML, Vision & AI Systems Projects
+## Featured High-Value Engineering Projects
 
 ### 1. [Home Condition Assessment & 3D Reconstruction (`cek-kondisi-rumah`)](https://github.com/mwyzer/cek-kondisi-rumah)
 End-to-end computer vision and multimodal assessment platform for structural damage analysis:
@@ -61,11 +64,24 @@ Automated road pavement evaluation system combining computer vision, numerical s
 - **Numerical & Statistical Methods:** Spatial **Gaussian kernel smoothing** (`σ = 50 m`) along road stationing, 95% confidence interval estimation, and z-score outlier detection (`|z| > 2`).
 - **Signal Processing:** Vertical acceleration **RMS roughness calculation** with gravity component removal and Haversine geodesic segmentation from raw smartphone accelerometer telemetry.
 
-### 3. [Multi-Agent Shipping Operations System (`shipping-ops-agent`)](https://github.com/mwyzer/shipping-ops-agent)
-Modular Python multi-agent system orchestrating pricing, schedule reconciliation, data entry, and reporting workflows via graph-based agent routing, CLI tooling, and automated CI validation.
+### 3. [TalentMatch AI — Candidate Evaluation & Matching Platform (`TalentMatch-AI---Flask---ReactJS`)](https://github.com/mwyzer/TalentMatch-AI---Flask---ReactJS)
+Explainable AI hiring intelligence platform that scores candidate fit with measurable evaluation metrics:
+- **Explainable Scoring Engine:** Multi-stage resume-to-job matching pipeline incorporating structured extraction, semantic similarity, and deterministic qualification scoring.
+- **Production Architecture:** Modular Flask REST API with clean layer boundaries, containerized multi-stage Docker builds, automated test pipelines, and GitHub Actions CI/CD.
 
-### 4. [Django AI Employee (`django_ai_employee`)](https://github.com/mwyzer/django_ai_employee)
-AI-assisted workflow automation platform with asynchronous task processing (Celery), load testing (Locust), containerized deployment, and automated test coverage.
+### 4. [Shipping Operations Multi-Agent System (`shipping-ops-agent`)](https://github.com/mwyzer/shipping-ops-agent)
+Domain-specific **LangGraph** multi-agent system addressing real-world logistics workflows:
+- **Architecture:** One Coordinator and six specialized agents (Reconciliation, Data Entry, Reporting, Email, Pricing, Scheduling) with strict human-in-the-loop review guards.
+- **Verification & Tooling:** Automated discrepancy audits (manifests vs container lists, ISO 6346 check digits), CLI utilities, and unified FastAPI backend paired with TypeScript/Next.js and zero-build HTML interfaces.
+
+### 5. [AI Workplace Automation Platform (`django_ai_employee`)](https://github.com/mwyzer/django_ai_employee)
+Enterprise AI assistant with asynchronous background execution and performance testing:
+- **Async Execution & Scale:** Celery-driven task queues for asynchronous LLM/RAG workflows backed by Redis and PostgreSQL.
+- **Performance & Load Testing:** Locust-based load testing suites (`locustfile.py`), comprehensive test coverage reporting, and Docker Compose orchestration.
+
+### 6. [AI Interview & Assessment Platform (`ai-interview-platform-fs`)](https://github.com/mwyzer/ai-interview-platform-fs)
+Full-stack candidate assessment and evaluation platform with strong quality engineering emphasis:
+- **System Architecture:** Two-service architecture (API + Web) featuring automated candidate evaluation, scoring reproducibility, and end-to-end integration test suites.
 
 ---
 
