@@ -2,7 +2,7 @@
 
 ### Machine Learning & AI Systems Engineer • Python • PyTorch • Computer Vision • Numerical Computing • Full-Stack AI
 
-I design and build reproducible machine-learning pipelines, computer-vision training and inference systems, numerical analysis workflows, and production-grade agentic AI applications—combining rigorous engineering verification (`pytest`, synthetic datasets, deterministic pipelines) with modern AI-assisted workflows.
+I design and build reproducible machine-learning pipelines, computer-vision training and inference systems, numerical analysis workflows, and production-grade enterprise AI applications—combining rigorous engineering verification (`pytest`, synthetic datasets, deterministic pipelines) with modern AI-assisted workflows.
 
 <p align="center">
   <a href="https://github.com/mwyzer">
@@ -18,6 +18,7 @@ I design and build reproducible machine-learning pipelines, computer-vision trai
 - 🧠 **Model Training & Inference Systems:** Fine-tuning object detection models (**PyTorch**, **RF-DETR**), **ONNX** runtime export, and serverless GPU orchestration on **Modal (NVIDIA L4)** with gradient accumulation and checkpoint validation.
 - 📐 **Numerical Computing & Computer Vision:** Classical and deep-learning vision pipelines (**OpenCV**, **NumPy**, morphological filtering, PCA-based geometric heuristics, **3D Gaussian Splatting / `gsplat` & COLMAP**), spatial Gaussian kernel smoothing, and accelerometer RMS signal processing.
 - 🤖 **Agentic & Multi-Agent Architectures:** Graph-based agent routing (**LangGraph**), human-in-the-loop review systems, RAG evaluation, and asynchronous workflow execution.
+- 🏢 **Enterprise & Distributed Backend Systems:** Modular monolith and microservice architectures (**Spring Boot / Java 21**, FastAPI, Django), workforce risk intelligence pipelines, Kafka/Redis event streaming, and auditable domain workflows.
 - 🧪 **Reproducible Python Engineering:** High-velocity development using **coding agents** (Claude Code, Antigravity) paired with modern Python tooling (`uv`, `pytest`, FastAPI/Flask, Docker, synthetic test suites, and GitHub Actions CI/CD).
 
 **Portfolio:** https://wyzer.my.id  
@@ -40,6 +41,8 @@ I design and build reproducible machine-learning pipelines, computer-vision trai
 ### Backend, Frameworks & Infrastructure
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -64,22 +67,27 @@ Automated road pavement evaluation system combining computer vision, numerical s
 - **Numerical & Statistical Methods:** Spatial **Gaussian kernel smoothing** (`σ = 50 m`) along road stationing, 95% confidence interval estimation, and z-score outlier detection (`|z| > 2`).
 - **Signal Processing:** Vertical acceleration **RMS roughness calculation** with gravity component removal and Haversine geodesic segmentation from raw smartphone accelerometer telemetry.
 
-### 3. [TalentMatch AI — Candidate Evaluation & Matching Platform (`TalentMatch-AI---Flask---ReactJS`)](https://github.com/mwyzer/TalentMatch-AI---Flask---ReactJS)
+### 3. [WorkforceOS — Enterprise Operations & Risk Intelligence (`WorkForceOS`)](https://github.com/mwyzer/WorkForceOS)
+Enterprise REST API platform for shift-based workforce management with automated operational risk intelligence:
+- **Risk Intelligence Pipeline:** Real-time risk detection engine combining heuristics and LLM-driven operational analysis to identify scheduling bottlenecks, fatigue risks, and attendance anomalies.
+- **Enterprise Architecture:** Modular monolith built with **Spring Boot 3 / Java 21**, JWT security filters, PostgreSQL database migrations via Flyway, and audit-logged domain workflows.
+
+### 4. [TalentMatch AI — Candidate Evaluation & Matching Platform (`TalentMatch-AI---Flask---ReactJS`)](https://github.com/mwyzer/TalentMatch-AI---Flask---ReactJS)
 Explainable AI hiring intelligence platform that scores candidate fit with measurable evaluation metrics:
 - **Explainable Scoring Engine:** Multi-stage resume-to-job matching pipeline incorporating structured extraction, semantic similarity, and deterministic qualification scoring.
 - **Production Architecture:** Modular Flask REST API with clean layer boundaries, containerized multi-stage Docker builds, automated test pipelines, and GitHub Actions CI/CD.
 
-### 4. [Shipping Operations Multi-Agent System (`shipping-ops-agent`)](https://github.com/mwyzer/shipping-ops-agent)
+### 5. [Shipping Operations Multi-Agent System (`shipping-ops-agent`)](https://github.com/mwyzer/shipping-ops-agent)
 Domain-specific **LangGraph** multi-agent system addressing real-world logistics workflows:
 - **Architecture:** One Coordinator and six specialized agents (Reconciliation, Data Entry, Reporting, Email, Pricing, Scheduling) with strict human-in-the-loop review guards.
 - **Verification & Tooling:** Automated discrepancy audits (manifests vs container lists, ISO 6346 check digits), CLI utilities, and unified FastAPI backend paired with TypeScript/Next.js and zero-build HTML interfaces.
 
-### 5. [AI Workplace Automation Platform (`django_ai_employee`)](https://github.com/mwyzer/django_ai_employee)
+### 6. [AI Workplace Automation Platform (`django_ai_employee`)](https://github.com/mwyzer/django_ai_employee)
 Enterprise AI assistant with asynchronous background execution and performance testing:
 - **Async Execution & Scale:** Celery-driven task queues for asynchronous LLM/RAG workflows backed by Redis and PostgreSQL.
 - **Performance & Load Testing:** Locust-based load testing suites (`locustfile.py`), comprehensive test coverage reporting, and Docker Compose orchestration.
 
-### 6. [AI Interview & Assessment Platform (`ai-interview-platform-fs`)](https://github.com/mwyzer/ai-interview-platform-fs)
+### 7. [AI Interview & Assessment Platform (`ai-interview-platform-fs`)](https://github.com/mwyzer/ai-interview-platform-fs)
 Full-stack candidate assessment and evaluation platform with strong quality engineering emphasis:
 - **System Architecture:** Two-service architecture (API + Web) featuring automated candidate evaluation, scoring reproducibility, and end-to-end integration test suites.
 
