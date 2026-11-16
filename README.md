@@ -15,15 +15,26 @@ I design and build reproducible machine-learning pipelines, computer-vision trai
 
 ## Focus Areas
 
-- 🧠 **Model Training & Inference Systems:** Fine-tuning object detection models (**PyTorch**, **RF-DETR**), **ONNX** runtime export, and serverless GPU orchestration on **Modal (NVIDIA L4)** with gradient accumulation and checkpoint validation.
+- 🧠 **Model Training & Inference Systems:** Fine-tuning object detection models (**PyTorch**, **RF-DETR**), **ONNX Runtime** export, and serverless GPU orchestration on **Modal (NVIDIA L4)** with gradient accumulation and checkpoint validation.
 - 📐 **Numerical Computing & Computer Vision:** Classical and deep-learning vision pipelines (**OpenCV**, **NumPy**, morphological filtering, PCA-based geometric heuristics, **3D Gaussian Splatting / `gsplat` & COLMAP**), spatial Gaussian kernel smoothing, and accelerometer RMS signal processing.
+- ⚡ **Performance Optimization & Benchmarking:** Profiling inference throughput (FPS) and latency (p50/p95/p99), memory footprint optimization, and numerical parity verification ($\epsilon \le 10^{-4}$) between PyTorch and quantized/ONNX graph representations.
 - 🤖 **Agentic & Multi-Agent Architectures:** Graph-based agent routing (**LangGraph**), human-in-the-loop review systems, RAG evaluation, and asynchronous workflow execution.
 - 🏢 **Enterprise & Distributed Backend Systems:** Modular monolith and microservice architectures (**Spring Boot / Java 21**, FastAPI, Django), workforce risk intelligence pipelines, Kafka/Redis event streaming, and auditable domain workflows.
-- 🧪 **Reproducible Python Engineering:** High-velocity development using **coding agents** (Claude Code, Antigravity) paired with modern Python tooling (`uv`, `pytest`, FastAPI/Flask, Docker, synthetic test suites, and GitHub Actions CI/CD).
 
 **Portfolio:** https://wyzer.my.id  
 **Email:** muhammad.wyzer@gmail.com  
 **LinkedIn:** https://linkedin.com/in/muhammad-wyzer
+
+---
+
+## 🛠️ How I Use Coding Agents in My Workflow
+
+As an engineer working on complex machine learning and backend platforms, I treat **coding agents (Claude Code, Antigravity)** as high-velocity co-engineers embedded directly into terminal and CLI environments:
+
+1. **Spec & Guardrails-First Engineering:** Before generating implementation code, I define strict schemas (Pydantic / Zod), architectural constraints, and safety guidelines (`PRD.md`, `GUARDRAILS.md`), keeping agent generations bounded and mathematically sound.
+2. **Synthetic Data & Deterministic Verification:** I guide agents to construct procedural synthetic test datasets (e.g. `tests/dataset_sintetis.py` in `cek-kondisi-rumah`) to stress-test numerical boundaries, edge cases, and OpenCV morphological filters before touching live models.
+3. **Automated Test Generation & Parity Checks:** I leverage coding agents to write rigorous `pytest` suites and verify numerical equivalence (e.g. cross-validating PyTorch vs ONNX tensors, or statistical distribution tests).
+4. **Reproducible Tooling & Environment Isolation:** Every workflow is pinned with modern deterministic tools (`uv.lock`, `pyproject.toml`, Docker, and CI/CD actions) so all agent-crafted implementations can be reproduced reliably on any machine or remote GPU node.
 
 ---
 
@@ -63,7 +74,7 @@ End-to-end computer vision and multimodal assessment platform for structural dam
 
 ### 2. [Road Surface Distress Index & Sensor Analytics (`penilai-kondisi-jalan`)](https://github.com/mwyzer/penilai-kondisi-jalan)
 Automated road pavement evaluation system combining computer vision, numerical signal processing, and spatial statistics:
-- **Offline Object Detection:** **RF-DETR Nano** training workflow on Road Damage Dataset (RDD) with **ONNX** export for low-latency deployment.
+- **Offline Object Detection & Benchmarking:** **RF-DETR Nano** training workflow with **ONNX Runtime** export and inference benchmarking suite (`benchmark_inferensi.py`) measuring FPS, p50/p95 latency, and numerical parity.
 - **Numerical & Statistical Methods:** Spatial **Gaussian kernel smoothing** (`σ = 50 m`) along road stationing, 95% confidence interval estimation, and z-score outlier detection (`|z| > 2`).
 - **Signal Processing:** Vertical acceleration **RMS roughness calculation** with gravity component removal and Haversine geodesic segmentation from raw smartphone accelerometer telemetry.
 
@@ -90,14 +101,6 @@ Enterprise AI assistant with asynchronous background execution and performance t
 ### 7. [AI Interview & Assessment Platform (`ai-interview-platform-fs`)](https://github.com/mwyzer/ai-interview-platform-fs)
 Full-stack candidate assessment and evaluation platform with strong quality engineering emphasis:
 - **System Architecture:** Two-service architecture (API + Web) featuring automated candidate evaluation, scoring reproducibility, and end-to-end integration test suites.
-
----
-
-## Engineering & Verification Practices
-
-- **Reproducible ML Workflows:** Deterministic environment management with `uv` (`uv.lock`), Docker, and CLI-first training/evaluation scripts.
-- **Objective Verification:** Automated unit and integration testing with `pytest`, synthetic image/dataset generators, and strict schema validation (Zod / Pydantic).
-- **AI-Assisted Development:** Extensive daily workflow integrating coding agents (Claude Code, Antigravity) with Python for rapid prototyping, numerical debugging, and test generation.
 
 ---
 
