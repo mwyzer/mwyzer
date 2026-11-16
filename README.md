@@ -4,12 +4,12 @@
 
 I design and build reproducible machine-learning pipelines, computer-vision training and inference systems, numerical analysis workflows, and agentic AI applications—combining rigorous verification (`pytest`, synthetic datasets, deterministic pipelines) with modern AI-assisted engineering workflows.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mwyzer">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=mwyzer&show_icons=true&theme=tokyonight&hide_border=true"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwyzer&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
-</p>
+</p> -->
 
 ---
 
